@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="mouse" size="100.000000 100.000000" />
+    <ImageTarget name="vga" size="100.000000 100.000000" />
+    <ImageTarget name="ram" size="100.000000 86.701035" />
+    <ImageTarget name="motherboard" size="100.000000 100.278549" />
+    <ImageTarget name="prosesor" size="100.000000 100.000000" />
+    <ImageTarget name="hardisk" size="100.000000 100.000000" />
+    <ImageTarget name="keyboard" size="100.000000 100.000000" />
+    <ImageTarget name="casing" size="100.000000 100.000000" />
+  </Tracking>
+</QCARConfig>

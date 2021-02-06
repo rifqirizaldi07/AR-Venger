@@ -1,0 +1,83 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/splash.unity
+    guid: 0e80ce9460ac15846ba1b54e2e470f04
+  - enabled: 1
+    path: Assets/mainmenu.unity
+    guid: e2ae7636ef55ad24ba3a986337d00a16
+  - enabled: 1
+    path: Assets/arkamera.unity
+    guid: 6a432086e49a10f4891010ee1616b647
+  - enabled: 1
+    path: Assets/evaluasi.unity
+    guid: 060feaee58365bf4b947bce3eff1fd95
+  - enabled: 1
+    path: Assets/panduan.unity
+    guid: 88c8873f6ca5c4d458c5008712256c97
+  - enabled: 1
+    path: Assets/tentang.unity
+    guid: aaa7f2418fd0a0b428445b57195df49b
+  - enabled: 1
+    path: Assets/skor0.unity
+    guid: 087c8b2d9ec5f414484c58d7dd74ead1
+  - enabled: 1
+    path: Assets/skor1.unity
+    guid: 50b1e1d6da7c51b419d82c927f23149d
+  - enabled: 1
+    path: Assets/skor2.unity
+    guid: aa5fad526d382344fb911487d3a7d0ba
+  - enabled: 1
+    path: Assets/skor3.unity
+    guid: 7f6e31191abb8374b8a8ab642d23f556
+  - enabled: 1
+    path: Assets/skor4.unity
+    guid: c743258107651be4f913bdd844c83829
+  - enabled: 1
+    path: Assets/skor5.unity
+    guid: 83926a874332da748934727c7a133257
+  - enabled: 1
+    path: Assets/skor6.unity
+    guid: b9ef153f3eaa46f4f9cb20b91a1c5e1b
+  - enabled: 1
+    path: Assets/skor7.unity
+    guid: 35f9ff1c88bb80b4ea78c1039863379a
+  - enabled: 1
+    path: Assets/skor8.unity
+    guid: df57e441164db4345872cd44873ce832
+  - enabled: 1
+    path: Assets/skor9.unity
+    guid: 666490429fab97b4e91e63508ba0ef67
+  - enabled: 1
+    path: Assets/skor10.unity
+    guid: b67bfb3e9f98e9548b71f502af13d123
+  - enabled: 0
+    path: Assets/arprosesor.unity
+    guid: 34f73a6914924094882a2a8164daac8f
+  - enabled: 0
+    path: Assets/arram.unity
+    guid: 0ddab858b989d6e4a8e97ac54d4bb3d5
+  - enabled: 0
+    path: Assets/arvga.unity
+    guid: 081303f107d097e4c89ca4b8ff6ec573
+  - enabled: 0
+    path: Assets/arhardisk.unity
+    guid: 990ce7a5b4b78444f96fb1872e4404fe
+  - enabled: 0
+    path: Assets/arkeyboard.unity
+    guid: cb3a98a236c1bd7418d8d4970adb22b8
+  - enabled: 0
+    path: Assets/armotherboard.unity
+    guid: 7a13870736c864343a68a990139bbdd7
+  - enabled: 0
+    path: Assets/armouse.unity
+    guid: adab97c9096bd074293270b820ba5e8e
+  - enabled: 0
+    path: Assets/arcasing.unity
+    guid: df011463952043c46aa1c2dcfa101de9
+  m_configObjects: {}
